@@ -13,3 +13,9 @@ https://github.com/stho32/Training/blob/master/Common-Requirements.md
   - [ ] (R006) with a configurable amount of digits
   - [ ] (R007) using upper- and lowercase characters
 - [ ] (R008) There is a way to grab a random animal name like "funny dancing elephant"
+
+## Setup
+
+- install pytest: `pip install -U pytest`
+- add $HOME/.local/bin to local path: `export PATH="$HOME/.local/bin:$PATH"`
+- check pytest version: `pytest --version`
